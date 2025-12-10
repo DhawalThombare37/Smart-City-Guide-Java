@@ -68,6 +68,7 @@ Smart-City-Guide-Java/
 │ │
 │ ├── icons/
 │ └── (UI icons and images)
+├── Sample Video (SmartCityGuide.mp4)
 ├── .gitignore
 ├── LICENSE
 └── README.md
@@ -105,7 +106,10 @@ String pass = "<PASSWORD>";
 ---
 
 # 🖼️ Screenshots
-add images 
+<img width="1914" height="1010" alt="Screenshot 2025-12-10 170002" src="https://github.com/user-attachments/assets/a02a1129-919a-4f47-97cd-0e3b3d117a9c" />
+<img width="1355" height="613" alt="Screenshot 2025-12-10 170039" src="https://github.com/user-attachments/assets/9b3ac681-d9db-4a05-a58c-ccb52870bae4" />
+<img width="1047" height="672" alt="Screenshot 2025-12-10 170121" src="https://github.com/user-attachments/assets/5f12b578-f21c-4e88-946f-87a52610521e" />
+<img width="985" height="738" alt="Screenshot 2025-12-10 170053" src="https://github.com/user-attachments/assets/adb37026-24f5-43e5-8937-1e09f52c7a58" />
 
 ---
 
@@ -124,6 +128,15 @@ If you like Smart City Guide, or found it helpful for learning JavaFX,
 please consider giving it a star ⭐
 
 <p align="center"> <img src="https://img.shields.io/github/stars/DhawalThombare37/Smart-City-Guide-Java?style=social" /> </p>
+
+---
+
+# 🙌 Credits & Inspiration
+
+Special thanks to **Kunal Tyagi (Code For Interview)**  
+whose Java + JavaFX tutorials helped shape parts of this project.
+
+📺 YouTube Channel: https://www.youtube.com/CodeForInterview
 
 ---
 # 📄 License
