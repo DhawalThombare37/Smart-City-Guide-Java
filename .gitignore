@@ -17,3 +17,18 @@
 # Config files
 config.properties
 *.env
+
+
+# NetBeans private folders
+nbproject/private/
+private/
+
+# NetBeans project metadata (optional, recommended)
+nbproject/
+
+# Build directories
+build/
+dist/
+
+
+
