@@ -1,0 +1,19 @@
+# Java
+*.class
+*.jar
+*.war
+*.log
+
+# Build
+/target/
+/out/
+/build/
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+
+# Config files
+config.properties
+*.env
